@@ -30,8 +30,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.black,
       ),
-      home: MapSample(),
-      // home: RandomWords(),
+      // home: MapSample(),
+      home: RandomWords(),
       // home: CarouselWithIndicatorDemo(),
     );
   }
